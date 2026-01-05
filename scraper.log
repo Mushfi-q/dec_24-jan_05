@@ -1,0 +1,9 @@
+2026-01-02 04:16:32 | INFO | Scrape run started
+2026-01-02 04:18:45 | INFO | Companies scraped from YC: 1000
+2026-01-02 04:18:47 | INFO | Scrape completed | Total=1000 | New=0 | Updated=0 | Unchanged=1000 | Failed=0 | AvgTimeMs=134.86
+2026-01-05 23:03:24 | INFO | Scrape run started
+2026-01-05 23:05:52 | INFO | Companies scraped from YC: 1000
+2026-01-05 23:05:54 | INFO | Scrape completed | Total=1000 | New=4 | Updated=0 | Unchanged=996 | Failed=0 | AvgTimeMs=149.80
+2026-01-06 00:10:09 | INFO | Scrape run started
+2026-01-06 00:12:26 | INFO | Companies scraped from YC: 1000
+2026-01-06 00:12:29 | INFO | Scrape completed | Total=1000 | New=1 | Updated=999 | Unchanged=0 | Failed=0 | AvgTimeMs=139.36

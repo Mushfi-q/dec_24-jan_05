@@ -61,7 +61,6 @@ export default async function Home(props) {
           <a href={`/?page=${page + 1}`}>Next ➡</a>
         )}
       </div>
-      <a href="/analytics">View Analytics</a>
     </main>
   );
 }
